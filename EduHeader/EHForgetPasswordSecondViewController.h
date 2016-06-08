@@ -1,0 +1,16 @@
+//
+//  EHForgetPasswordSecondViewController.h
+//  EduHeader
+//
+//  Created by Hao King on 15/10/22.
+//  Copyright © 2015年 EduHeader. All rights reserved.
+//
+
+#import "EHBaseViewController.h"
+
+@interface EHForgetPasswordSecondViewController : EHBaseViewController
+
+@property (nonatomic, strong)NSString *phone;
+@property (nonatomic, strong)NSString *code;
+
+@end

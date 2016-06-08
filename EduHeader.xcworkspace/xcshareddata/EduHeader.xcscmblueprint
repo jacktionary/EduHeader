@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "700D3E8B22429C283C90070C6573EE06936195CC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "700D3E8B22429C283C90070C6573EE06936195CC" : 0,
+    "2A8CC76D0984F5186F869B6CBF35034B58A5ACD9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2E0BA93C-9DA2-4B9B-ACD0-F08BE522EDAF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "700D3E8B22429C283C90070C6573EE06936195CC" : "eduheader\/",
+    "2A8CC76D0984F5186F869B6CBF35034B58A5ACD9" : "eduheader\/EduHeader\/Pods\/MJRefresh\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EduHeader",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EduHeader\/EduHeader.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/JackCheng\/Library\/Caches\/CocoaPods\/GitHub\/5b40bb970131875554e7f36d63641789728ee55f",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A8CC76D0984F5186F869B6CBF35034B58A5ACD9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "localhost:\/opt\/git\/eduheader.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "700D3E8B22429C283C90070C6573EE06936195CC"
+    }
+  ]
+}

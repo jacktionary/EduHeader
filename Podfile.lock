@@ -1,0 +1,65 @@
+PODS:
+  - iOS-Slide-Menu (1.5)
+  - JSQMessagesViewController (7.2.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - libwebp (0.4.3):
+    - libwebp/core
+    - libwebp/dec
+    - libwebp/demux
+    - libwebp/dsp
+    - libwebp/enc
+    - libwebp/mux
+    - libwebp/utils
+    - libwebp/webp
+  - libwebp/core (0.4.3):
+    - libwebp/webp
+  - libwebp/dec (0.4.3):
+    - libwebp/core
+  - libwebp/demux (0.4.3):
+    - libwebp/core
+  - libwebp/dsp (0.4.3):
+    - libwebp/core
+  - libwebp/enc (0.4.3):
+    - libwebp/core
+  - libwebp/mux (0.4.3):
+    - libwebp/core
+  - libwebp/utils (0.4.3):
+    - libwebp/core
+  - libwebp/webp (0.4.3)
+  - Masonry (0.6.3)
+  - MBProgressHUD (0.9.1)
+  - MJRefresh (2.4.12)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core
+    - SDWebImage/MapKit
+    - SDWebImage/WebP
+  - SDWebImage/Core (3.7.3)
+  - SDWebImage/MapKit (3.7.3):
+    - SDWebImage/Core
+  - SDWebImage/WebP (3.7.3):
+    - libwebp
+    - SDWebImage/Core
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - iOS-Slide-Menu (~> 1.5)
+  - JSQMessagesViewController
+  - Masonry (~> 0.6.2)
+  - MBProgressHUD (~> 0.9.1)
+  - MJRefresh (~> 2.4.2)
+  - SDWebImage (~> 3.7.3)
+  - SVPullToRefresh (~> 0.4.1)
+
+SPEC CHECKSUMS:
+  iOS-Slide-Menu: 40b0cbd8916c42afc755f0869793cd09e7a32102
+  JSQMessagesViewController: 73cab48aa92fc2d512f3b6724f3425cc47a19eb5
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  libwebp: 360ed8bc4ec8da413f07f84071e7f5a5c67a285d
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJRefresh: ca8e9589895977df32d379d46e6b8a5450b3ff44
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+
+COCOAPODS: 0.32.1
