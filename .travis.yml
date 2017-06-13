@@ -3,3 +3,4 @@ osx_image: xcode8.3
 xcode_project: EduHeader.xcworkspace
 xcode_scheme: EduHeader
 xcode_sdk: iphoneos
+
