@@ -3,4 +3,5 @@ osx_image: xcode8.3
 xcode_project: EduHeader.xcworkspace
 xcode_scheme: EduHeader
 xcode_sdk: iphoneos
-
+script:
+    - xcodebuild clean build -sdk iphonesos -workspace EduHeader.xcworkspace -scheme EduHeader CODE_SIGNING_REQUIRED=NO
